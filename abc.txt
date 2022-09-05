@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3C8E-1532
+
+ Directory of C:\Users\User\Desktop\Jenkins\Git_Project
+
+09/05/2022  11:35 AM    <DIR>          .
+09/05/2022  11:35 AM    <DIR>          ..
+09/05/2022  11:35 AM                 0 abc.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  64,241,799,168 bytes free
